@@ -16,6 +16,7 @@ Project Technologies
     React Hooks
     HTML5
     Redux tool kit
+    vercel
 
 Start Project
 In the project directory, you can run:
@@ -39,8 +40,11 @@ berikut masalah yang sudah fix :
 
 Untuk pertanyaan no 9 soal Utama ada di pages/Soallanjutan.jsx karena request pertanyaan adalah global state management 
 saya menggunakan redux 
+untuk login gunakan password "admin" user bebas
 
-gunakan password "admin" user bebas namanya 
+soal diatas dapat di akses langsung ke link berikut : 
+https://test-ifabula.vercel.app/ (vercel)
+https://github.com/giaz231/test_ifabula.git (github)
 
 Terima Kasih
 
